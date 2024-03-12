@@ -22,6 +22,12 @@ Using terraform to deploy resources to AWS
 ### Policy attached to role showing s3 resource
 ![policy attached to role showing S3 resource access on console](https://github.com/robodave99/Securitylab06/assets/52970510/78d07eda-548f-44f1-9f9b-4891b2d1a8e9)
 
+### Creating ec2 instance
+![creating ec2 instance with iam role and terraform apply](https://github.com/robodave99/Securitylab06/assets/52970510/06e50c26-27a5-435d-af53-6b0a0cd6ab6d)
+
+### Ec2 instance created
+![ec2 instance created](https://github.com/robodave99/Securitylab06/assets/52970510/e2cce6e7-e0ee-472f-b04e-fa3241bacbc5)
+
 ### Detaching the policy from the role | terraform plan
 ![detaching the policy from the role and terraform plan](https://github.com/robodave99/Securitylab06/assets/52970510/7f7edce0-1db8-4831-b4fb-9c27dfff7ca2)
 
