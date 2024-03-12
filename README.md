@@ -1,4 +1,4 @@
-# Securitylab06
+# CloudSecuritylab06
 Using terraform to deploy resources to AWS
 
 ### Terraform plan with the role defined in the main file
